@@ -16,14 +16,14 @@ import TemporaryDrawer from './components/DemoSettings/DemoSettings';
 function App() {
   return (
     <React.Fragment>
-      <BrowserRouter basename='/Armani-custom-demo'>
+      <HashRouter basename='/extra-custom-demo2'>
         <Switch>
-          <HashRouter>
+
             <Route exact path='/' component={Homepage} />
             <Route exact path='/product-details' component={ProductDetails} />
-          </HashRouter>
+
         </Switch>
-      </BrowserRouter>
+      </HashRouter>
       <TemporaryDrawer />
     </React.Fragment>
   );
