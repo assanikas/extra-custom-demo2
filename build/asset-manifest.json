@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/deploy-extra/static/css/main.1738bcff.chunk.css",
+    "main.js": "/deploy-extra/static/js/main.793fff54.chunk.js",
+    "main.js.map": "/deploy-extra/static/js/main.793fff54.chunk.js.map",
+    "runtime-main.js": "/deploy-extra/static/js/runtime-main.dc064bdd.js",
+    "runtime-main.js.map": "/deploy-extra/static/js/runtime-main.dc064bdd.js.map",
+    "static/css/2.db4710b3.chunk.css": "/deploy-extra/static/css/2.db4710b3.chunk.css",
+    "static/js/2.de7e6686.chunk.js": "/deploy-extra/static/js/2.de7e6686.chunk.js",
+    "static/js/2.de7e6686.chunk.js.map": "/deploy-extra/static/js/2.de7e6686.chunk.js.map",
+    "static/js/3.96acab2e.chunk.js": "/deploy-extra/static/js/3.96acab2e.chunk.js",
+    "static/js/3.96acab2e.chunk.js.map": "/deploy-extra/static/js/3.96acab2e.chunk.js.map",
+    "index.html": "/deploy-extra/index.html",
+    "static/css/2.db4710b3.chunk.css.map": "/deploy-extra/static/css/2.db4710b3.chunk.css.map",
+    "static/css/main.1738bcff.chunk.css.map": "/deploy-extra/static/css/main.1738bcff.chunk.css.map",
+    "static/js/2.de7e6686.chunk.js.LICENSE.txt": "/deploy-extra/static/js/2.de7e6686.chunk.js.LICENSE.txt",
+    "static/media/1.65355faa.png": "/deploy-extra/static/media/1.65355faa.png",
+    "static/media/2.813f511b.png": "/deploy-extra/static/media/2.813f511b.png",
+    "static/media/3.1abdacec.png": "/deploy-extra/static/media/3.1abdacec.png",
+    "static/media/4.bf155556.png": "/deploy-extra/static/media/4.bf155556.png",
+    "static/media/5.70703142.png": "/deploy-extra/static/media/5.70703142.png",
+    "static/media/6.699a2f89.png": "/deploy-extra/static/media/6.699a2f89.png",
+    "static/media/7.9b1d5e08.png": "/deploy-extra/static/media/7.9b1d5e08.png",
+    "static/media/8.b5baee7a.png": "/deploy-extra/static/media/8.b5baee7a.png",
+    "static/media/detail.5656936d.png": "/deploy-extra/static/media/detail.5656936d.png",
+    "static/media/logo.6ce24c58.svg": "/deploy-extra/static/media/logo.6ce24c58.svg",
+    "static/media/returnButton.d5759a0e.png": "/deploy-extra/static/media/returnButton.d5759a0e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dc064bdd.js",
+    "static/css/2.db4710b3.chunk.css",
+    "static/js/2.de7e6686.chunk.js",
+    "static/css/main.1738bcff.chunk.css",
+    "static/js/main.793fff54.chunk.js"
+  ]
+}
